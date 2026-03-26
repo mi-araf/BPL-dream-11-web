@@ -2,6 +2,7 @@ import React from 'react';
 import { RiAccountPinCircleLine } from "react-icons/ri";
 import { FaRegFlag } from "react-icons/fa";
 import { TbCurrencyTaka } from "react-icons/tb";
+import { toast } from 'react-toastify';
 
 const Card = ({ player, setCoin, coin, selectedPlayers, setSelectedPlayers }) => {
     // Check if player is already selected based on the global selectedPlayers array
@@ -9,14 +10,17 @@ const Card = ({ player, setCoin, coin, selectedPlayers, setSelectedPlayers }) =>
 
     const handleChoosePlayer = () => {        
         // Prevent selecting the same player multiple times
-        if (isSelected) return;
+        if (isSelected) {
+            return;
+        }
 
         let newCoin = coin - player.price;
 
         if (newCoin >= 0) {
             setCoin(newCoin);
+            toast.success(`You have selected ${player.playerName}`);
         } else {
-            alert('Not enough coin');
+            toast.warning('You do not have enough coins to select this player.');
             return ; 
         }
 
