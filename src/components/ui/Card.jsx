@@ -1,0 +1,43 @@
+import React from 'react';
+import { RiAccountPinCircleLine } from "react-icons/ri";
+import { FaRegFlag } from "react-icons/fa";
+import { TbCurrencyTaka } from "react-icons/tb";
+
+const Card = ({ player }) => {
+    return (
+        <div>
+            <div className="card bg-base-200 shadow-sm">
+                <figure className="overflow-hidden rounded-2xl aspect-3/3">
+                    <img src={player.playerImg} alt={player.playerName} className="p-6 w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+                    />
+                </figure>
+                <div className="card-body">
+                    <h2 className="card-title"><RiAccountPinCircleLine />{player.playerName}</h2>
+                    <div className='flex justify-between items-center gap-2'>
+                        <FaRegFlag className='text-[#131313] opacity-70' />
+                        <p className='text-[#131313] opacity-70'>Bangladesh</p>
+                        <button className="btn ">
+                            {player.playerType}
+                        </button>
+                    </div>
+
+                    <div className='divider'></div>
+
+                    <h2 className='font-bold'>Rating: ({player.rating})</h2>
+
+                    <div className='flex justify-between gap-4 font-bold'>
+                        <p>{player.batStyle}</p>
+                        <p className='text-right'>{player.bowlingStyle}</p>
+                    </div>
+
+                    <div className="card-actions justify-between items-center">
+                        <p className='font-semibold flex items-center'>Price: <TbCurrencyTaka />{player.price}</p>
+                        <button className="btn border-gray-300">Choose Player</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default Card;

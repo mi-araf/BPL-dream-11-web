@@ -1,0 +1,192 @@
+[
+    {
+        "playerName": "Mushfiqur Rahim",
+        "playerCountry": "Bangladesh",
+        "playerType": "Wicketkeeper-Batter",
+        "rating": 88,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "N/A",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/330px-Mushfiqur_Rahim_2018_%28cropped%29.jpg",
+        "price": 115000
+    },
+    {
+        "playerName": "Andre Russell",
+        "playerCountry": "West Indies",
+        "playerType": "All-rounder",
+        "rating": 95,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Andre_Russell_%281%29.jpg/330px-Andre_Russell_%281%29.jpg",
+        "price": 185000
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerType": "Batter",
+        "rating": 96,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off-break",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Babar_azam_2023.jpg/330px-Babar_azam_2023.jpg",
+        "price": 190000
+    },
+    {
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "playerType": "Wicketkeeper-Batter",
+        "rating": 95,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "N/A",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jos_Buttler_in_2023.jpg/330px-Jos_Buttler_in_2023.jpg",
+        "price": 180000
+    },
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "playerType": "All-rounder",
+        "rating": 92,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/330px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg",
+        "price": 145000
+    },
+    {
+        "playerName": "David Warner",
+        "playerCountry": "Australia",
+        "playerType": "Batter",
+        "rating": 92,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm leg-break",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAVID_WARNER_%2811704782453%29.jpg/330px-DAVID_WARNER_%2811704782453%29.jpg",
+        "price": 170000
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerCountry": "Afghanistan",
+        "playerType": "All-rounder",
+        "rating": 97,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg-break googly",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/330px-Rashid_Khan.jpg",
+        "price": 200000
+    },
+    {
+        "playerName": "Quinton de Kock",
+        "playerCountry": "South Africa",
+        "playerType": "Wicketkeeper-Batter",
+        "rating": 90,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "N/A",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/QUINTON_DE_KOCK_%2815681398316%29.jpg/330px-QUINTON_DE_KOCK_%2815681398316%29.jpg",
+        "price": 150000
+    },
+    {
+        "playerName": "Shaheen Shah Afridi",
+        "playerCountry": "Pakistan",
+        "playerType": "Bowler",
+        "rating": 93,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Shaheen_Afridi_%282%29.jpg/330px-Shaheen_Afridi_%282%29.jpg",
+        "price": 175000
+    },
+    {
+        "playerName": "Glenn Maxwell",
+        "playerCountry": "Australia",
+        "playerType": "All-rounder",
+        "rating": 94,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm off-break",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Glen_Maxwell_2026_%28cropped%29.jpg/330px-Glen_Maxwell_2026_%28cropped%29.jpg",
+        "price": 180000
+    },
+    {
+        "playerName": "Trent Boult",
+        "playerCountry": "New Zealand",
+        "playerType": "Bowler",
+        "rating": 90,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Left-arm fast-medium",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg/330px-2018.02.03.22.23.14-AUSvNZL_T20_AUS_innings%2C_SCG_%2839533156665%29.jpg",
+        "price": 150000
+    },
+    {
+        "playerName": "Wanindu Hasaranga",
+        "playerCountry": "Sri Lanka",
+        "playerType": "All-rounder",
+        "rating": 91,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg-break googly",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Waniya.jpg/330px-Waniya.jpg",
+        "price": 155000
+    },
+    {
+        "playerName": "Mohammad Rizwan",
+        "playerCountry": "Pakistan",
+        "playerType": "Wicketkeeper-Batter",
+        "rating": 91,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "N/A",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/M_Rizwan.jpg/330px-M_Rizwan.jpg",
+        "price": 160000
+    },
+    {
+        "playerName": "Pat Cummins",
+        "playerCountry": "Australia",
+        "playerType": "Bowler",
+        "rating": 93,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg/330px-Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg",
+        "price": 185000
+    },
+    {
+        "playerName": "Sunil Narine",
+        "playerCountry": "West Indies",
+        "playerType": "All-rounder",
+        "rating": 94,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm off-break",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/330px-Sunil_Narine.jpg",
+        "price": 170000
+    },
+    {
+        "playerName": "Sam Curran",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 88,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm medium-fast",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Prime_Minister_welcomes_the_World_Cup_winning_cricketers_%2852764650104%29_-_Sam_Curran_%28cropped%29.jpg/330px-The_Prime_Minister_welcomes_the_World_Cup_winning_cricketers_%2852764650104%29_-_Sam_Curran_%28cropped%29.jpg",
+        "price": 140000
+    },
+    {
+        "playerName": "Kagiso Rabada",
+        "playerCountry": "South Africa",
+        "playerType": "Bowler",
+        "rating": 91,
+        "batStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rabada.jpg/330px-Rabada.jpg",
+        "price": 165000
+    },
+    {
+        "playerName": "Shadab Khan",
+        "playerCountry": "Pakistan",
+        "playerType": "All-rounder",
+        "rating": 89,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg-break",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Shadab_Khan.png/330px-Shadab_Khan.png",
+        "price": 135000
+    },
+    {
+        "playerName": "Marcus Stoinis",
+        "playerCountry": "Australia",
+        "playerType": "All-rounder",
+        "rating": 88,
+        "batStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "playerImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg/330px-2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg",
+        "price": 135000
+    }
+]
